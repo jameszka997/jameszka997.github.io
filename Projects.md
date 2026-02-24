@@ -6,17 +6,29 @@ Title: Projects
 This page is designed to showcase my complete & on-going projects in various categories, as well as my technical skills.
 
 # Technical Skills overview
-- Excel (*Data Cleaning, Visualization, Analysis, Querying, database management*)
-- RStudio (*Data Visualization, Data Analysis, Modelling*)
-- Python (*Modelling, Data Analysis, Scripts*)
-- SQL (*Data exploration, aggregation, data base management*)
-- Power BI (*Dashboard, Visualization, Data Linking & Querying*)
-- Bash Terminal - Linux (*Environment Set-up, Task oriented programming*)
-- Veeva Vault (*Quality & Document Management System*)
+
+| Tool | Skills |
+| -- | -- |
+|**Excel**|From raw spreadsheets to clear insight — advanced cleaning, analysis, modelling, and database‑level querying.|
+|**RStudio**| High‑impact visualizations, robust statistical modelling, and reproducible analytics pipelines in R.|
+| **Python** |Automating analysis, building predictive models, and turning complex data problems into elegant scripts.|
+| **SQL (Google Bigquery, SQLite)** | Efficient data exploration, powerful aggregation, and scalable database management for real‑world scenarios.|
+| **Power BI** | Interactive dashboards that turn complex datasets into intuitive, decision‑ready visuals.|
+| **Bash / Linux** | Fast, reliable environment setup and task‑oriented automation using command‑line power.|
+| **Veeva Vault** | Quality and document management built on validated, compliant workflows. |
+| **Github** |Clean, organized, and collaborative development using industry‑standard version control and project management. |
+| **Jupyter Notebooks & Markdown** |Clear, structured documentation and interactive data workflows — blending code, narrative, and visuals into polished analytical stories.|
+  
 
 # On-going Projects
 - [Hungarian Drug Shortage Data Analysis](https://github.com/jameszka997/Hungarian-Drug-Shortage-Data-Analysis)
+
+Analysing years of Hungarian pharmaceutical shortage data to uncover market patterns, company‑specific trends, and ATC‑level insights — all compiled into an interactive Power BI dashboard for clear, data‑driven decision making.
+
 - [Project Map for interactive visualization dashboard](https://github.com/jameszka997/Work-Projects)
+
+
+
 - Clinical Data Science Projects - Predictive modelling to Identify Patients likely to die during ICU Stay
 
 # Complete Projects
