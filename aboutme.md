@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Babbling and Rambling of Data Baffoon
+subtitle: Babbling and Rambling of a Data Baffoon
 ---
 
 Hello there, I am János, also known as "Jamesz", and welcome to my humble little website.
@@ -22,4 +22,3 @@ Currently I am working on multiple projects at the same time, such as finishing 
 - Properly uploading and cataloging my past data projects each with a dedicated Github repository
 - [Interactive Power BI Map Dashboard to track Projects across Europe](https://github.com/jameszka997/Data-Solutions-Repository/blob/main/Map%20Visual/Map_Visual_readme.md)
 
-finishing my report dashboard for the analysis of Drug Shortage cases within Hungary, as well as finishing my Clinical Data Science Specialization certificate from University of Colorado.
