@@ -38,7 +38,7 @@ Completed
 - [R for Data Science2](https://github.com/jameszka997/R-for-Data-Science2e-me)
 - [RNA-Seq Uppsala Workshop](https://github.com/jameszka997/RNA-seq-Uppsala-code)
 - [Filtered Job Ad Database - HiringCafe](https://github.com/jameszka997/Job-Advert-Database/tree/main) 
-- (Clinical Data Science Projects)[https://github.com/jameszka997/Development-of-Phenotyping-Algorithm-to-Identify-Patients-with-Hypertension]
+- [Clinical Data Science Projects](https://github.com/jameszka997/Development-of-Phenotyping-Algorithm-to-Identify-Patients-with-Hypertension)
 - [Mail Merge using Excel and Word](https://github.com/jameszka997/Mail_Merge_using_Excel_and_Word)
 - [ICD Health Code Dataset Harmonization](https://github.com/jameszka997/ICD-Health-Code-Dataset-Harmonization-)
 - [Bioinformatic Pipeline Developments](https://github.com/jameszka997/Bioinformatic-Pipeline-Development-Projects)
