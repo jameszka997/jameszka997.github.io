@@ -14,7 +14,7 @@ I have always been fascinated to understand issues and find their characteristic
 
 I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical, analytical and ever-expanding skills to the field of data. I have applied my skills and developed myself to work with complex data, identifying trends, and out-of-the-box thinking to reframe and view problems from a new angle. I have a deep seated interest & experience in data analysis & science as I have held roles focusing on various facets of data from developing bionformatic pipelines to process Next-Generation Sequencing data, all the way to creating Power BI-based tools for better decision making and data insight showcase.
 
-For my **CV**, click on the [link](https://github.com/jameszka997/Data-Portfolio/blob/main/CV%20Data%20Analyst.pdf).
+For my **CV**, click on the [link](https://github.com/jameszka997/jameszka997.github.io/blob/master/assets/CV%20Data%20Analyst.pdf).
 
 For **Diplomas & Certifications**, see the [Certifications](https://jameszka997.github.io/Certifications/) section of my website.
 
