@@ -34,9 +34,20 @@ Analysing years of Hungarian pharmaceutical shortage data to uncover market patt
 # Complete Projects
 Completed 
 
-- [SQL Noir Case Files](https://github.com/jameszka997/SQL-Noir---Case-Files---Workflows)
-- [R for Data Science2](https://github.com/jameszka997/R-for-Data-Science2e-me)
-- [RNA-Seq Uppsala Workshop](https://github.com/jameszka997/RNA-seq-Uppsala-code)
+- [SQL-Noir Case Files Solutions](https://github.com/jameszka997/SQL-Noir---Case-Files---Workflows)
+
+**Documented SQL query workflows and solutions across six mystery-themed SQL Noir cases, practicing database querying, table joins, and analytical thinking.**
+
+- [R for Data Science – Active Learning Log](https://github.com/jameszka997/R-for-Data-Science2e-me)
+
+![r_visualizations_collage](https://github.com/user-attachments/assets/017b9e4d-4290-4288-884b-bb22f2d097a7)
+
+**A hands-on learning log documenting my journey through the R for Data Science (2nd edition) workbook, covering data wrangling, transformation, and visualization using tidyverse, dplyr, and ggplot2 (snippet of graphs included above).**
+
+- [RNA-seq Data Analysis Workshop](https://github.com/jameszka997/RNA-seq-Uppsala-code)
+
+**Completed a five-day SciLifeLab/NBIS workshop at Uppsala University covering the full RNA-seq analysis pipeline, from raw data quality control and read mapping through to differential gene expression and gene set enrichment analysis using R and Linux.**
+
 - [Filtered Job Ad Database - HiringCafe](https://github.com/jameszka997/Job-Advert-Database/tree/main) 
 - [Clinical Data Science Projects](https://github.com/jameszka997/Development-of-Phenotyping-Algorithm-to-Identify-Patients-with-Hypertension)
 - [Mail Merge using Excel and Word](https://github.com/jameszka997/Mail_Merge_using_Excel_and_Word)
