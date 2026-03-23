@@ -5,19 +5,7 @@ Title: Projects
 
 This page is designed to showcase my complete & on-going projects in various categories, as well as my technical skills.
 
-# Technical Skills overview
 
-| Tool | Skills |
-| -- | -- |
-|**Excel**|From raw spreadsheets to clear insight — advanced cleaning, analysis, modelling, and database‑level querying.|
-|**RStudio**| High‑impact visualizations, robust statistical modelling, and reproducible analytics pipelines in R.|
-| **Python** |Automating analysis, building predictive models, and turning complex data problems into elegant scripts.|
-| **SQL (Google Bigquery, SQLite)** | Efficient data exploration, powerful aggregation, and scalable database management for real‑world scenarios.|
-| **Power BI** | Interactive dashboards that turn complex datasets into intuitive, decision‑ready visuals.|
-| **Bash / Linux** | Fast, reliable environment setup and task‑oriented automation using command‑line power.|
-| **Veeva Vault** | Quality and document management built on validated, compliant workflows. |
-| **Github** |Clean, organized, and collaborative development using industry‑standard version control and project management. |
-| **Jupyter Notebooks & Markdown** |Clear, structured documentation and interactive data workflows — blending code, narrative, and visuals into polished analytical stories.|
   
 
 # On-going Projects
@@ -48,12 +36,36 @@ Completed
 
 **Completed a five-day SciLifeLab/NBIS workshop at Uppsala University covering the full RNA-seq analysis pipeline, from raw data quality control and read mapping through to differential gene expression and gene set enrichment analysis using R and Linux.**
 
-- [Filtered Job Ad Database - HiringCafe](https://github.com/jameszka997/Job-Advert-Database/tree/main) 
+- [HiringCafe Job Advert Database - HiringCafe](https://github.com/jameszka997/Job-Advert-Database/tree/main) 
+
+**Developed an end-to-end data pipeline to collect, clean, and structure job listings from HiringCafe into a structured Excel database, with ongoing development towards full scraping automation via Python and SQL integration.**
+
 - [Clinical Data Science Projects](https://github.com/jameszka997/Development-of-Phenotyping-Algorithm-to-Identify-Patients-with-Hypertension)
-- [Mail Merge using Excel and Word](https://github.com/jameszka997/Mail_Merge_using_Excel_and_Word)
+
+**Coursework repository from the University of Colorado's Clinical Data Science program, featuring projects spanning EHR-based hypertension phenotyping, ICU mortality risk prediction modelling, and NLP keyword extraction from clinical notes.**
+
+- [Mail Merge using Excel & Word](https://github.com/jameszka997/Mail_Merge_using_Excel_and_Word)
+
+**Documented a stakeholder email workflow using Excel functions (SUMPRODUCT, XLOOKUP, TEXTBEFORE/AFTER) to validate, extract, and structure contact data from merged strings for use in a customised Word mail merge campaign.**
+  
 - [ICD Health Code Dataset Harmonization](https://github.com/jameszka997/ICD-Health-Code-Dataset-Harmonization-)
+
+**Cross-referenced and harmonized a dataset of ~200 Swedish ICD-8/9/10 disease codes against international WHO classifications for X-chromosome related autoimmune diseases at Linköping University's Nestor Lab, identifying and documenting key coding discrepancies across classification systems using Excel.**
+
 - [Bioinformatic Pipeline Developments](https://github.com/jameszka997/Bioinformatic-Pipeline-Development-Projects)
-- [Audit team Audit completion projection study](https://github.com/jameszka997/Work-Projects)
-- [Audit List Data Analysis project](https://github.com/jameszka997/Work-Projects)
-- [Project Timeline Tracker (Gantt visual)](https://github.com/jameszka997/Work-Projects) 
+
+<img width="1806" height="572" alt="sksks" src="https://github.com/user-attachments/assets/5ff81a12-0cf4-43bc-a583-5707d473d267" />
+
+**Developed and implemented modular genomics and transcriptomics pipelines at Linköping University's Nestor Lab, spanning LP-WGS alignment, RAP-seq RNA processing, and R-based Copy Number Variation analysis using Bash, Python, and R. Example above for expression profile from DNA CNV analysis.**
+
+- [Audit team Audit completion projection study](https://github.com/jameszka997/Data-Solutions-Repository/blob/main/Audit%20Capacity%20Projection%20modelling/Audit%20Capacity%20Projection%20Model.md)
+
+![audit_model_combined](https://github.com/user-attachments/assets/e99b0662-089b-44a3-90a3-0af9d285fe1c)
+
+**Built a dual-scenario Excel workforce capacity model for a regional audit hub, forecasting month-by-month audit throughput across a 24-person team through 2025 by accounting for staggered hiring, role-based training timelines, and vacation-adjusted realistic versus ideal capacity. Above you can find a dummy version of the model, as well as output of number of audits based on the models.**
+
+- [Audit List Data Analysis project](https://github.com/jameszka997/Data-Solutions-Repository/blob/main/2025%20Audit%20Company%20List%20Evaluation.md)
+
+- [Project Timeline Tracker (Gantt Chart)]
+
 - [Toxicology Modelling and Study (BSc project)](https://github.com/jameszka997/Toxicological-study-of-alcoholic-and-non-alcoholic-hand-sanitisers-on-Daphnia-pulex)
