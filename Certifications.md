@@ -14,7 +14,7 @@ This page is designed to compile all the relevant qualifications & certification
 
 
 ### Certificates & Workshops 
-- [Clinical Data Science Certificate (by University of Colorado System - Coursera)](https://github.com/user-attachments/files/25929520/Coursera.XDJIDHNI1EUD.pdf)
+- [Clinical Data Science Certificate (by University of Colorado System - Coursera)](https://github.com/user-attachments/assets/3575372c-10b0-4ce6-850f-c0a52e4312b0)
 - [Anaconda Python for Data Science Professional Certificate](https://github.com/user-attachments/files/26178625/CertificateOfCompletion_Anaconda.Python.for.Data.Science.Professional.Certificate.pdf)
 - [Everybodys Introduction to Snowflake Certification](https://github.com/user-attachments/files/25929484/CertificateOfCompletion_Everybodys.Introduction.to.Snowflake.pdf)
 - [Career Essentials in Business Analysis by Microsoft and LinkedIn](https://github.com/user-attachments/files/25864441/CertificateOfCompletion_Career.Essentials.in.Business.Analysis.by.Microsoft.and.LinkedIn.pdf)
