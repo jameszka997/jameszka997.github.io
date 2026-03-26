@@ -43,6 +43,21 @@ For **Data Projects**, which I have worked on, see the [Projects](https://jamesz
 
 
 
+## Soft Skills
+
+- Project Management
+- Communication & stakeholder management
+- Supplier & Business Analytics
+- Problem-solving
+- Agile methodology
+- Presentation Skills & Story telling
+- Process & Solution development
+- Quality mindset & Critical thinking
+
+
+Other: Project Management, Veeva Vault, Github, Sharepoint, MS Office
+
+
 
 ### My Aim
 
