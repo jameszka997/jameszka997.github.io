@@ -22,17 +22,25 @@ For **Data Projects**, which I have worked on, see the [Projects](https://jamesz
 
 ## Skills
 
-Languages: Python, R, SQL, Bash / Terminal 
-Excel: PivotTables, Formulas, Data validation, Look up functions, Macros, VBA, Dashboard design, Quality Checks
-Power BI: Power Automate, Power Query, DAX, Visual Dashboard design
-Databases: Excel, Google BigQuery, PostgreSQL, Snowflake
-Data Modelling: R, Python, Excel
-Documentation Tools: Markdown, Github, VS Code, Jupyter Notebooks
-Python: Pandas, NumPy, Matplotlib, Anaconda, DateTime, Selenium, BioPython, Mamba
-SQL: Create, Alter, Insert, Select, Merge, Joins, Truncaate, Indexes, Aggregate, Views
-R: Tidyverse, Dplyr, GGplot2, QDNAseq, Scater 
-Bash / Terminal: Bioinformatic Pipeline Development, Iterating, FastQC, Bowtiw2, Samtools, Picard, Bedtools, Python scripts, Macs2
-Other: Project Management, Veeva Vault, Github, Sharepoint, MS Office
+## Technical Skills
+
+| Skills | Competency |
+| -- | -- |
+| Excel | Pivot Tables, Dashboard & Reporting, LookUps, Macros, Visualization, Statistical modelling, Statistical & Data Analysis, Data Quality Checks & Processing |
+| Python | Web scraping, Text scraping & parsing, Data Analytics (Pandas, Numpy), Machine Learning (Selenium, PyTorch), Visualization (Matplotlib), Bioinformatics & Genomic data analysis (Anaconda, Mamba, BioPython)
+| R | Data analytics & processing (Tidyverse), Visualization (ggplot2), Genomic data processing (QDNASeq), Data Modelling (Scater), Statistical testing & Modelling |
+| Power BI | Power Automate, Power Query, DAX, Visual Dashboard design, Data loading & transformation pipelines | 
+| SQL (BigQuery, PostgreSQL) | Data retrieval & transformation (Create, Insert, Select, Merge, Joins, Group By, Order By), Data analytics |
+| Git & Github | Project Management, Back-up & Version Control |
+| VS Code | Coding environment used for general coding needs |
+| Documentation | Markdown files, Jupyter Notebooks for reproducible coding |
+| Snowflake | Data engineering, Layered data importation & transformation |
+| Google Cloud (BigQuery) | Google Cloud access & data retrieval and handling through BigQuery |
+| Shell | Virtual Environment, Bioinformatic Pipeline Development, Iterating, Genomic Data cleaning & processing (FastQC, Bowtiw2, Samtools, Picard, Bedtools, Macs2), Executing Python Script |
+| Veeva Vault | Cloud SaaS platform, RIM/QMS/DMS management, Data & Report retrieval, Handling of Quality Document & Processes (CAPA, Audits, Supplier information) |
+| Sharepoint | Central Document Management |
+| MS Office | High-level use and familiarity with Microsoft Office Suite (PowerPoint, Onedrive, Word, Excel) |
+
 
 
 
