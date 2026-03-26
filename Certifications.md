@@ -19,6 +19,7 @@ This page is designed to compile all the relevant qualifications & certification
 - [Everybodys Introduction to Snowflake Certification](https://github.com/user-attachments/files/25929484/CertificateOfCompletion_Everybodys.Introduction.to.Snowflake.pdf)
 - [Career Essentials in Business Analysis by Microsoft and LinkedIn](https://github.com/user-attachments/files/25864441/CertificateOfCompletion_Career.Essentials.in.Business.Analysis.by.Microsoft.and.LinkedIn.pdf)
 - [Career Essentials in Porject Management by Microsoft and LinkedIn](https://github.com/user-attachments/files/26178712/CertificateOfCompletion_Career.Essentials.in.Project.Management.by.Microsoft.and.LinkedIn.1.pdf)
+- [CSCMP Supply Chain Foundations: The Essentials Professional Certificate](https://github.com/user-attachments/files/26277242/CertificateOfCompletion_CSCMP.Supply.Chain.Foundations.The.Essentials.Professional.Certificate.pdf)
 - [GDPR Compliance Essential Training Certification](https://github.com/user-attachments/files/25929470/CertificateOfCompletion_GDPR.Compliance.Essential.Training.pdf)
 - [Power BI Data modeling with DAX (LinkedIn Learning)](https://media.licdn.com/dms/image/v2/D4D2DAQEnjm8f_7rd7Q/profile-treasury-document-images_1280/B4DZx7SzSaHcAU-/1/1771595053821?e=1772668800&v=beta&t=8cH--lvPC-E_YJDptHQehaWUhjkKuBvQgXEzbLn36sk)
 - [R for Data Science2](https://github.com/jameszka997/R-for-Data-Science2e-me)
