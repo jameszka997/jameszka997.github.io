@@ -171,6 +171,10 @@ title: Projects
     </div>
   </div>
 
+
+
+
+
   <!-- PROJECT 2 -->
   <div class="proj-card">
     <div class="proj-card-inner no-image">
@@ -237,7 +241,7 @@ title: Projects
 
 
 
-<!-- PROJECT 3 -->
+<!-- PROJECT 4 -->
   <div class="proj-card">
     <div class="proj-card-inner">
       <div class="proj-image">
@@ -268,6 +272,107 @@ title: Projects
       </div>
     </div>
   </div>
+
+
+
+  <!-- PROJECT 5 -->
+  <div class="proj-card">
+    <div class="proj-card-inner no-image">
+      <div class="proj-body">
+        <div>
+          <p class="proj-category">Exploratory Analysis & Reporting</p>
+          <a class="proj-title" href="https://github.com/jameszka997/Data-Solutions-Repository/blob/main/2025%20Audit%20Company%20List%20Evaluation.md">
+            Audit List Data Analysis
+          </a>
+          <p class="proj-desc">
+            Exploratory analysis of a confidential European audit company list using pivot tables and visualisations, uncovering geographic distribution patterns, company type breakdowns, priority category splits, and special audit requirements to support strategic resource planning.
+          </p>
+        </div>
+        <div class="proj-footer">
+          <div class="tools-row">
+            <span class="tool-badge xl">Excel</span>
+            <span class="tool-badge xl">Pivot Tables</span>
+            <span class="tool-badge viz">Charts &amp; Visualisation</span>
+            <span class="tool-badge sql">EDA</span>
+          </div>
+          <a class="proj-link" href="https://github.com/jameszka997/Data-Solutions-Repository/blob/main/2025%20Audit%20Company%20List%20Evaluation.md">
+            View on GitHub →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <!-- PROJECT 6 -->
+  <div class="proj-card">
+    <div class="proj-card-inner no-image">
+      <div class="proj-body">
+        <div>
+          <p class="proj-category">SQL Querying · Problem Solving</p>
+          <a class="proj-title" href="https://github.com/jameszka997/SQL-Noir---Case-Files---Workflows">
+            SQL-Noir Case Files Solutions
+          </a>
+          <p class="proj-desc">
+            Documented SQL query workflows and solutions across six mystery-themed SQL Noir cases, practicing database querying, table joins, and analytical thinking.
+          </p>
+        </div>
+        <div class="proj-footer">
+          <div class="tools-row">
+            <span class="tool-badge xl">Excel</span>
+            <span class="tool-badge xl">Pivot Tables</span>
+            <span class="tool-badge viz">Charts &amp; Visualisation</span>
+            <span class="tool-badge sql">EDA</span>
+          </div>
+          <a class="proj-link" href="https://github.com/jameszka997/SQL-Noir---Case-Files---Workflows">
+            View on GitHub →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+  <!-- PROJECT 7 -->
+  <div class="proj-card">
+    <div class="proj-card-inner">
+      <div class="proj-image">
+        <img src="https://github.com/user-attachments/assets/017b9e4d-4290-4288-884b-bb22f2d097a7" alt="R Data Science Graphs snapshot" />
+      </div>
+      <div class="proj-body">
+        <div>
+          <p class="proj-category">R · Data Science · Visualization</p>
+          <a class="proj-title" href="https://github.com/jameszka997/R-for-Data-Science2e-me">
+            R for Data Science – Learning Log
+          </a>
+          <p class="proj-desc">
+            A hands-on learning log documenting my journey through the R for Data Science (2nd edition) workbook, covering data wrangling, transformation, and visualization using tidyverse, dplyr, and ggplot2 (snippet of graphs included above).
+          </p>
+        </div>
+        <div class="proj-footer">
+          <div class="tools-row">
+            <span class="tool-badge xl">Excel</span>
+            <span class="tool-badge xl">Pivot Tables</span>
+            <span class="tool-badge viz">Data Visualisation</span>
+            <span class="tool-badge">Scenario Modelling</span>
+          </div>
+          <a class="proj-link" href="https://github.com/jameszka997/R-for-Data-Science2e-me">
+            View on GitHub →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
 
 
   <!-- ADD MORE PROJECTS BELOW — copy the block above and fill in the fields -->
