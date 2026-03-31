@@ -199,6 +199,41 @@ title: Projects
     </div>
   </div>
 
+
+ <!-- PROJECT 3 -->
+  <div class="proj-card">
+    <div class="proj-card-inner no-image">
+      <div class="proj-body">
+        <div>
+          <p class="proj-category">Power BI Dashboard · Data Visualization & Interaction</p>
+          <a class="proj-title" href="https://github.com/jameszka997/Data-Solutions-Repository/blob/main/Map%20Visual/Map_Visual_readme.md">
+            Project Map for interactive visualization dashboard
+          </a>
+          <p class="proj-desc">
+            Developed an interactive Power BI dashboard using Azure Map visuals to geographically track hundreds of ongoing projects across Europe, with dynamic filtering by status, owner, and project type, fed by a daily-refreshed Excel data source.
+          </p>
+        </div>
+        <div class="proj-footer">
+          <div class="tools-row">
+            <span class="tool-badge viz">Power BI</span>
+            <span class="tool-badge viz">Data Visualisation</span>
+            <span class="tool-badge viz">Power Query</span>
+            <span class="tool-badge sql">Data Transformation</span>
+            <span class="tool-badge sql">Data Import Pipeline</span>
+          </div>
+          <a class="proj-link" href="https://github.com/jameszka997/Data-Solutions-Repository/blob/main/Map%20Visual/Map_Visual_readme.md">
+            View on GitHub →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
   <!-- ADD MORE PROJECTS BELOW — copy the block above and fill in the fields -->
   <!--
   <div class="proj-card">
