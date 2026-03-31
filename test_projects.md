@@ -237,6 +237,37 @@ title: Projects
 
 
 
+<!-- PROJECT 3 -->
+  <div class="proj-card">
+    <div class="proj-card-inner">
+      <div class="proj-image">
+          <img src="https://github.com/user-attachments/assets/bd9970d6-d942-4941-9441-ab9e7d442292" alt="Project Timeline visual screenshot" />
+        </div>
+      <div class="proj-body">
+        <div>
+          <p class="proj-category">Power BI Dashboard · Project Timeline Gantt Chart</p>
+          <a class="proj-title" href="https://github.com/jameszka997/Data-Solutions-Repository/blob/main/Map%20Visual/Map_Visual_readme.md">
+            Project Timeline Tracker (Gantt Chart)
+          </a>
+          <p class="proj-desc">
+            Built an interactive Power BI Gantt dashboard consolidating 100+ projects across multiple owners into a centrally tracked, auto-refreshing timeline with colour-coded milestones and dynamic filtering to replace scattered Excel-based manual reporting.
+          </p>
+        </div>
+        <div class="proj-footer">
+          <div class="tools-row">
+            <span class="tool-badge viz">Power BI</span>
+            <span class="tool-badge viz">Data Visualisation</span>
+            <span class="tool-badge viz">Power Query</span>
+            <span class="tool-badge sql">Data Transformation</span>
+            <span class="tool-badge sql">Data Import Pipeline</span>
+          </div>
+          <a class="proj-link" href="https://github.com/user-attachments/assets/bd9970d6-d942-4941-9441-ab9e7d442292">
+            View on GitHub →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 
 
   <!-- ADD MORE PROJECTS BELOW — copy the block above and fill in the fields -->
