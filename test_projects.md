@@ -202,8 +202,9 @@ title: Projects
 
  <!-- PROJECT 3 -->
   <div class="proj-card">
-    <div class="proj-card-inner no-image">
-      <div class="proj-body">
+    <div class="proj-card-inner">
+      <div class="proj-image">
+          <img src="https://github.com/user-attachments/assets/cd9072cb-acd3-4e19-80f0-f3e599102c14" />
         <div>
           <p class="proj-category">Power BI Dashboard · Data Visualization & Interaction</p>
           <a class="proj-title" href="https://github.com/jameszka997/Data-Solutions-Repository/blob/main/Map%20Visual/Map_Visual_readme.md">
