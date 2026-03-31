@@ -373,6 +373,232 @@ title: Projects
 
 
 
+  <!-- PROJECT 8 -->
+  <div class="proj-card">
+    <div class="proj-card-inner no-image">
+      <div class="proj-body">
+        <div>
+          <p class="proj-category">SQL · Problem Solving</p>
+          <a class="proj-title" href="https://github.com/jameszka997/SQL-Interview-Practice---DataLemur">
+            SQL Interview Practice - DataLemur
+          </a>
+          <p class="proj-desc">
+            Practising and documenting solutions to real-world SQL interview questions from DataLemur, spanning pharmaceutical sales analysis, candidate filtering, assembly line tracking, and messaging analytics using PostgreSQL.
+          </p>
+        </div>
+        <div class="proj-footer">
+          <div class="tools-row">
+            <span class="tool-badge xl">Excel</span>
+            <span class="tool-badge xl">Pivot Tables</span>
+            <span class="tool-badge viz">Charts &amp; Visualisation</span>
+            <span class="tool-badge sql">EDA</span>
+          </div>
+          <a class="proj-link" href="https://github.com/jameszka997/SQL-Interview-Practice---DataLemur">
+            View on GitHub →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <!-- PROJECT 9 -->
+  <div class="proj-card">
+    <div class="proj-card-inner no-image">
+      <div class="proj-body">
+        <div>
+          <p class="proj-category">Bioinformatics · RNA-sequencing </p>
+          <a class="proj-title" href="https://github.com/jameszka997/RNA-seq-Uppsala-code">
+            RNA-Seq Data Analysis Workshop
+          </a>
+          <p class="proj-desc">
+            Completed a five-day SciLifeLab/NBIS workshop at Uppsala University covering the full RNA-seq analysis pipeline, from raw data quality control and read mapping through to differential gene expression and gene set enrichment analysis using R and Linux.
+          </p>
+        </div>
+        <div class="proj-footer">
+          <div class="tools-row">
+            <span class="tool-badge xl">Excel</span>
+            <span class="tool-badge xl">Pivot Tables</span>
+            <span class="tool-badge viz">Charts &amp; Visualisation</span>
+            <span class="tool-badge sql">EDA</span>
+          </div>
+          <a class="proj-link" href="https://github.com/jameszka997/RNA-seq-Uppsala-code">
+            View on GitHub →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <!-- PROJECT 10 -->
+  <div class="proj-card">
+    <div class="proj-card-inner no-image">
+      <div class="proj-body">
+        <div>
+          <p class="proj-category">Data Science · R · SQL</p>
+          <a class="proj-title" href="https://github.com/jameszka997/Clinical_Data_Science_Projects_Repository">
+            Clinical Data Science Projects
+          </a>
+          <p class="proj-desc">
+            Coursework repository from the University of Colorado's Clinical Data Science program, featuring projects spanning EHR-based hypertension phenotyping, ICU mortality risk prediction modelling, and NLP keyword extraction from clinical notes.
+          </p>
+        </div>
+        <div class="proj-footer">
+          <div class="tools-row">
+            <span class="tool-badge xl">Excel</span>
+            <span class="tool-badge xl">Pivot Tables</span>
+            <span class="tool-badge viz">Charts &amp; Visualisation</span>
+            <span class="tool-badge sql">EDA</span>
+          </div>
+          <a class="proj-link" href="https://github.com/jameszka997/Clinical_Data_Science_Projects_Repository">
+            View on GitHub →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <!-- PROJECT 11 -->
+  <div class="proj-card">
+    <div class="proj-card-inner no-image">
+      <div class="proj-body">
+        <div>
+          <p class="proj-category">Excel · Word · Mass Email Sending</p>
+          <a class="proj-title" href="https://github.com/jameszka997/Mail_Merge_using_Excel_and_Word">
+            Mail Merge using Excel & Word
+          </a>
+          <p class="proj-desc">
+            Documented a stakeholder email workflow using Excel functions (SUMPRODUCT, XLOOKUP, TEXTBEFORE/AFTER) to validate, extract, and structure contact data from merged strings for use in a customised Word mail merge campaign.
+          </p>
+        </div>
+        <div class="proj-footer">
+          <div class="tools-row">
+            <span class="tool-badge xl">Excel</span>
+            <span class="tool-badge xl">Pivot Tables</span>
+            <span class="tool-badge viz">Charts &amp; Visualisation</span>
+            <span class="tool-badge sql">EDA</span>
+          </div>
+          <a class="proj-link" href="https://github.com/jameszka997/Mail_Merge_using_Excel_and_Word">
+            View on GitHub →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <!-- PROJECT 12 -->
+  <div class="proj-card">
+    <div class="proj-card-inner no-image">
+      <div class="proj-body">
+        <div>
+          <p class="proj-category">Excel · Healthcare data · Database harmonization</p>
+          <a class="proj-title" href="https://github.com/jameszka997/ICD-Health-Code-Dataset-Harmonization-">
+            ICD Health Code Dataset Harmonization
+          </a>
+          <p class="proj-desc">
+            Cross-referenced and harmonized a dataset of ~200 Swedish ICD-8/9/10 disease codes against international WHO classifications for X-chromosome related autoimmune diseases at Linköping University's Nestor Lab, identifying and documenting key coding discrepancies across classification systems using Excel.
+          </p>
+        </div>
+        <div class="proj-footer">
+          <div class="tools-row">
+            <span class="tool-badge xl">Excel</span>
+            <span class="tool-badge xl">Pivot Tables</span>
+            <span class="tool-badge viz">Charts &amp; Visualisation</span>
+            <span class="tool-badge sql">EDA</span>
+          </div>
+          <a class="proj-link" href="https://github.com/jameszka997/ICD-Health-Code-Dataset-Harmonization-">
+            View on GitHub →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+<!-- PROJECT 13 -->
+  <div class="proj-card">
+    <div class="proj-card-inner">
+      <div class="proj-image">
+        <img src="https://github.com/user-attachments/assets/5ff81a12-0cf4-43bc-a583-5707d473d267" alt="Bioinformatic pipelines development snapshot" />
+      </div>
+      <div class="proj-body">
+        <div>
+          <p class="proj-category">Bioinformatics · Shell · Genomics · R</p>
+          <a class="proj-title" href="https://github.com/user-attachments/assets/5ff81a12-0cf4-43bc-a583-5707d473d267">
+            Bioinformatic Pipeline Developments
+          </a>
+          <p class="proj-desc">
+            Developed and implemented modular genomics and transcriptomics pipelines at Linköping University's Nestor Lab, spanning LP-WGS alignment, RAP-seq RNA processing, and R-based Copy Number Variation analysis using Bash, Python, and R. Example above for expression profile from DNA CNV analysis.
+          </p>
+        </div>
+        <div class="proj-footer">
+          <div class="tools-row">
+            <span class="tool-badge xl">Excel</span>
+            <span class="tool-badge xl">Pivot Tables</span>
+            <span class="tool-badge viz">Data Visualisation</span>
+            <span class="tool-badge">Scenario Modelling</span>
+          </div>
+          <a class="proj-link" href="https://github.com/jameszka997/Bioinformatic-Pipeline-Development-Projects">
+            View on GitHub →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+<!-- PROJECT 14 -->
+  <div class="proj-card">
+    <div class="proj-card-inner">
+      <div class="proj-image">
+        <img src="https://github.com/user-attachments/assets/29c9e8c2-464e-45ee-bce6-0217ec819914" alt="Toxicology Assessment Pipeline flowchart" />
+      </div>
+      <div class="proj-body">
+        <div>
+          <p class="proj-category">Data Modelling · R</p>
+          <a class="proj-title" href="https://github.com/jameszka997/Toxicological-study-of-alcoholic-and-non-alcoholic-hand-sanitisers-on-Daphnia-pulex">
+            Toxicology Modelling and Study (BSc project)
+          </a>
+          <p class="proj-desc">
+            Investigated the acute and chronic toxicological effects of alcohol-based and non-alcohol-based hand sanitisers on the freshwater indicator species Daphnia pulex using probit regression, Kaplan-Meier survival analysis, and heart rate endpoints in R, identifying alcohol evaporation as a key methodological confound.
+          </p>
+        </div>
+        <div class="proj-footer">
+          <div class="tools-row">
+            <span class="tool-badge xl">Excel</span>
+            <span class="tool-badge xl">Pivot Tables</span>
+            <span class="tool-badge viz">Data Visualisation</span>
+            <span class="tool-badge">Scenario Modelling</span>
+          </div>
+          <a class="proj-link" href="https://github.com/jameszka997/Toxicological-study-of-alcoholic-and-non-alcoholic-hand-sanitisers-on-Daphnia-pulex">
+            View on GitHub →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
 
 
   <!-- ADD MORE PROJECTS BELOW — copy the block above and fill in the fields -->
