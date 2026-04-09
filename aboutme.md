@@ -39,6 +39,7 @@ For **Data Projects**, which I have worked on, see the [Projects](https://jamesz
 | Shell | Virtual Environment, Bioinformatic Pipeline Development, Iterating, Genomic Data cleaning & processing (FastQC, Bowtiw2, Samtools, Picard, Bedtools, Macs2), Executing Python Script |
 | Veeva Vault | Cloud SaaS platform, RIM/QMS/DMS management, Data & Report retrieval, Handling of Quality Document & Processes (CAPA, Audits, Supplier information) |
 | Sharepoint | Central Document Management |
+| Jira | Project Management Platform |
 | MS Office | High-level use and familiarity with Microsoft Office Suite (PowerPoint, Onedrive, Word, Excel) |
 
 
