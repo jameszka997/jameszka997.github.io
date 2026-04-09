@@ -19,8 +19,8 @@ This page is designed to compile all the relevant qualifications & certification
 - [Career Essentials in Business Analysis by Microsoft and LinkedIn](https://github.com/user-attachments/files/25864441/CertificateOfCompletion_Career.Essentials.in.Business.Analysis.by.Microsoft.and.LinkedIn.pdf)
 - [Career Essentials in Porject Management by Microsoft and LinkedIn](https://github.com/user-attachments/files/26178712/CertificateOfCompletion_Career.Essentials.in.Project.Management.by.Microsoft.and.LinkedIn.1.pdf)
 - [CSCMP Supply Chain Foundations: The Essentials Professional Certificate](https://github.com/user-attachments/files/26277242/CertificateOfCompletion_CSCMP.Supply.Chain.Foundations.The.Essentials.Professional.Certificate.pdf)
-- [Agile Foundations](https://github.com/user-attachments/files/26377371/CertificateOfCompletion_Agile.Foundations.1.pdf)
-- [Agile Project Management with Jira Cloud: 1 Projects, Boards, and Issues](https://github.com/user-attachments/files/26377407/CertificateOfCompletion_Agile.Project.Management.with.Jira.Cloud.1.Projects.Boards.and.Issues.pdf)
+- [Atlassian Agile Project Management
+Professional Certificate](https://github.com/user-attachments/files/26596596/CertificateOfCompletion_Atlassian.Agile.Project.Management.Professional.Certificate.pdf)
 - [Scrum: The Basics](https://github.com/user-attachments/files/26377417/CertificateOfCompletion_Scrum.The.Basics.pdf)
 - [GDPR Compliance Essential Training Certification](https://github.com/user-attachments/files/25929470/CertificateOfCompletion_GDPR.Compliance.Essential.Training.pdf)
 - [Everybodys Introduction to Snowflake Certification](https://github.com/user-attachments/files/25929484/CertificateOfCompletion_Everybodys.Introduction.to.Snowflake.pdf)
