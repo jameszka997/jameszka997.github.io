@@ -109,10 +109,11 @@ title: Projects
 }
 
 .tool-badge.xl  { background: #ecfdf5; color: #166534; border-color: #bbf7d0; }
-.tool-badge.vba { background: #f0fdf4; color: #15803d; border-color: #86efac; }
+.tool-badge.pbi { background: #f0fdf4; color: #15803d; border-color: #86efac; }
 .tool-badge.py  { background: #eff6ff; color: #1d4ed8; border-color: #bfdbfe; }
 .tool-badge.sql { background: #fffbeb; color: #92400e; border-color: #fde68a; }
-.tool-badge.viz { background: #fef2f2; color: #991b1b; border-color: #fecaca; }
+.tool-badge.etc { background: #fef2f2; color: #991b1b; border-color: #fecaca; }
+.tool-badge.r { background: #faf5ff; color: #6b21a8; border-color: #e9d5ff; }
 
 .proj-link {
   font-size: 11px;
@@ -140,6 +141,46 @@ title: Projects
 
 <div class="projects-grid">
 
+
+
+  <!-- PROJECT 1 -->
+  <div class="proj-card">
+    <div class="proj-card-inner">
+      <div class="proj-image">
+        <img src="(https://github.com/user-attachments/assets/2d047c44-af9c-4dea-b35c-a3e758386e8f)" alt="Hungarian Drug Shortage Data Analysis screenshot" />
+      </div>
+      <div class="proj-body">
+        <div>
+          <p class="proj-category">On-going Project</p>
+          <a class="proj-title" href="https://github.com/jameszka997/Hungarian-Drug-Shortage-Data-Analysis">
+            Hungarian Drug Shortage Data Analysis
+          </a>
+          <p class="proj-desc">
+            Analysing years of Hungarian pharmaceutical shortage data to uncover market patterns, company‑specific trends, and ATC‑level insights — all compiled into an interactive Power BI dashboard for clear, data‑driven decision making. Currently designing a high-quality layout for the report dashboard.
+          </p>
+        </div>
+        <div class="proj-footer">
+          <div class="tools-row">
+            <span class="tool-badge xl">Excel</span>
+            <span class="tool-badge xl">Pivot Tables</span>
+            <span class="tool-badge r">R</span>
+            <span class="tool-badge etc">Data Visualization</span>
+            <span class="tool-badge etc">Report Dashboard</span>
+            <span class="tool-badge etc">Data Exploration</span>
+          </div>
+          <a class="proj-link" href="https://github.com/jameszka997/Hungarian-Drug-Shortage-Data-Analysis">
+            View on GitHub →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+
   <!-- PROJECT 1 -->
   <div class="proj-card">
     <div class="proj-card-inner">
@@ -160,8 +201,9 @@ title: Projects
           <div class="tools-row">
             <span class="tool-badge xl">Excel</span>
             <span class="tool-badge xl">Pivot Tables</span>
-            <span class="tool-badge viz">Data Visualisation</span>
+            <span class="tool-badge etc">Data Visualisation</span>
             <span class="tool-badge">Scenario Modelling</span>
+            <span class="tool-badge etc">Capacity Modelling</span> 
           </div>
           <a class="proj-link" href="https://github.com/jameszka997/Data-Solutions-Repository/blob/main/Audit%20Capacity%20Projection%20modelling/Audit%20Capacity%20Projection%20Model.md">
             View on GitHub →
@@ -192,8 +234,8 @@ title: Projects
           <div class="tools-row">
             <span class="tool-badge xl">Excel</span>
             <span class="tool-badge xl">Pivot Tables</span>
-            <span class="tool-badge viz">Charts &amp; Visualisation</span>
-            <span class="tool-badge sql">EDA</span>
+            <span class="tool-badge etc">Charts &amp; Visualisation</span>
+            <span class="tool-badge etc">Data Analysis</span>
           </div>
           <a class="proj-link" href="https://github.com/jameszka997/Data-Solutions-Repository/blob/main/2025%20Audit%20Company%20List%20Evaluation.md">
             View on GitHub →
@@ -224,11 +266,11 @@ title: Projects
         </div>
         <div class="proj-footer">
           <div class="tools-row">
-            <span class="tool-badge viz">Power BI</span>
-            <span class="tool-badge viz">Data Visualisation</span>
-            <span class="tool-badge viz">Power Query</span>
-            <span class="tool-badge sql">Data Transformation</span>
-            <span class="tool-badge sql">Data Import Pipeline</span>
+            <span class="tool-badge pbi">Power BI</span>
+            <span class="tool-badge etc">Data Visualisation</span>
+            <span class="tool-badge pbi">Power Query</span>
+            <span class="tool-badge etc">Data Transformation</span>
+            <span class="tool-badge etc">Data Import Pipeline</span>
           </div>
           <a class="proj-link" href="https://github.com/jameszka997/Data-Solutions-Repository/blob/main/Map%20Visual/Map_Visual_readme.md">
             View on GitHub →
@@ -259,43 +301,13 @@ title: Projects
         </div>
         <div class="proj-footer">
           <div class="tools-row">
-            <span class="tool-badge viz">Power BI</span>
-            <span class="tool-badge viz">Data Visualisation</span>
-            <span class="tool-badge viz">Power Query</span>
-            <span class="tool-badge sql">Data Transformation</span>
-            <span class="tool-badge sql">Data Import Pipeline</span>
+            <span class="tool-badge pbi">Power BI</span>
+            <span class="tool-badge etc">Data Visualisation</span>
+            <span class="tool-badge pbi">Power Query</span>
+            <span class="tool-badge etc">Data Transformation</span>
+            <span class="tool-badge etc">Data Import Pipeline</span>
           </div>
           <a class="proj-link" href="https://github.com/user-attachments/assets/bd9970d6-d942-4941-9441-ab9e7d442292">
-            View on GitHub →
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-
-  <!-- PROJECT 5 -->
-  <div class="proj-card">
-    <div class="proj-card-inner no-image">
-      <div class="proj-body">
-        <div>
-          <p class="proj-category">Exploratory Analysis & Reporting</p>
-          <a class="proj-title" href="https://github.com/jameszka997/Data-Solutions-Repository/blob/main/2025%20Audit%20Company%20List%20Evaluation.md">
-            Audit List Data Analysis
-          </a>
-          <p class="proj-desc">
-            Exploratory analysis of a confidential European audit company list using pivot tables and visualisations, uncovering geographic distribution patterns, company type breakdowns, priority category splits, and special audit requirements to support strategic resource planning.
-          </p>
-        </div>
-        <div class="proj-footer">
-          <div class="tools-row">
-            <span class="tool-badge xl">Excel</span>
-            <span class="tool-badge xl">Pivot Tables</span>
-            <span class="tool-badge viz">Charts &amp; Visualisation</span>
-            <span class="tool-badge sql">EDA</span>
-          </div>
-          <a class="proj-link" href="https://github.com/jameszka997/Data-Solutions-Repository/blob/main/2025%20Audit%20Company%20List%20Evaluation.md">
             View on GitHub →
           </a>
         </div>
@@ -321,10 +333,9 @@ title: Projects
         </div>
         <div class="proj-footer">
           <div class="tools-row">
-            <span class="tool-badge xl">Excel</span>
-            <span class="tool-badge xl">Pivot Tables</span>
-            <span class="tool-badge viz">Charts &amp; Visualisation</span>
-            <span class="tool-badge sql">EDA</span>
+            <span class="tool-badge sql">SQL Querying</span>
+            <span class="tool-badge sql">Table Joins</span>
+            <span class="tool-badge etc">Problem Solving</span>
           </div>
           <a class="proj-link" href="https://github.com/jameszka997/SQL-Noir---Case-Files---Workflows">
             View on GitHub →
@@ -356,10 +367,12 @@ title: Projects
         </div>
         <div class="proj-footer">
           <div class="tools-row">
-            <span class="tool-badge xl">Excel</span>
-            <span class="tool-badge xl">Pivot Tables</span>
-            <span class="tool-badge viz">Data Visualisation</span>
-            <span class="tool-badge">Scenario Modelling</span>
+            <span class="tool-badge r">R</span>
+            <span class="tool-badge r">ggplot2</span>
+            <span class="tool-badge r">Tidyverse</span>
+            <span class="tool-badge etc">Data Visualization</span>
+            <span class="tool-badge etc">Data Transformation</span>
+            <span class="tool-badge etc">Data Analysis</span>
           </div>
           <a class="proj-link" href="https://github.com/jameszka997/R-for-Data-Science2e-me">
             View on GitHub →
@@ -388,10 +401,9 @@ title: Projects
         </div>
         <div class="proj-footer">
           <div class="tools-row">
-            <span class="tool-badge xl">Excel</span>
-            <span class="tool-badge xl">Pivot Tables</span>
-            <span class="tool-badge viz">Charts &amp; Visualisation</span>
-            <span class="tool-badge sql">EDA</span>
+            <span class="tool-badge sql">SQL</span>
+            <span class="tool-badge sql">SQL Joins</span>
+            <span class="tool-badge etc">Problem Solving</span>
           </div>
           <a class="proj-link" href="https://github.com/jameszka997/SQL-Interview-Practice---DataLemur">
             View on GitHub →
@@ -419,10 +431,10 @@ title: Projects
         </div>
         <div class="proj-footer">
           <div class="tools-row">
-            <span class="tool-badge xl">Excel</span>
-            <span class="tool-badge xl">Pivot Tables</span>
-            <span class="tool-badge viz">Charts &amp; Visualisation</span>
-            <span class="tool-badge sql">EDA</span>
+            <span class="tool-badge r">R</span>
+            <span class="tool-badge etc">Genomics</span>
+            <span class="tool-badge etc">Shell & Linux usage</span>
+            <span class="tool-badge etc">Bioinformatic pipeline analysis</span>
           </div>
           <a class="proj-link" href="https://github.com/jameszka997/RNA-seq-Uppsala-code">
             View on GitHub →
@@ -450,10 +462,12 @@ title: Projects
         </div>
         <div class="proj-footer">
           <div class="tools-row">
-            <span class="tool-badge xl">Excel</span>
-            <span class="tool-badge xl">Pivot Tables</span>
-            <span class="tool-badge viz">Charts &amp; Visualisation</span>
-            <span class="tool-badge sql">EDA</span>
+            <span class="tool-badge r">R</span>
+            <span class="tool-badge sql">SQL</span>
+            <span class="tool-badge sql">Google BigQuery</span>
+            <span class="tool-badge etc">Data Science</span>
+            <span class="tool-badge etc">Data Modelling</span>
+            <span class="tool-badge etc">Clinical & Healthcare Data</span>
           </div>
           <a class="proj-link" href="https://github.com/jameszka997/Clinical_Data_Science_Projects_Repository">
             View on GitHub →
@@ -482,9 +496,8 @@ title: Projects
         <div class="proj-footer">
           <div class="tools-row">
             <span class="tool-badge xl">Excel</span>
-            <span class="tool-badge xl">Pivot Tables</span>
-            <span class="tool-badge viz">Charts &amp; Visualisation</span>
-            <span class="tool-badge sql">EDA</span>
+            <span class="tool-badge xl">Word</span>
+            <span class="tool-badge etc">Mail merge for e-mail campaign</span>
           </div>
           <a class="proj-link" href="https://github.com/jameszka997/Mail_Merge_using_Excel_and_Word">
             View on GitHub →
@@ -513,9 +526,8 @@ title: Projects
         <div class="proj-footer">
           <div class="tools-row">
             <span class="tool-badge xl">Excel</span>
-            <span class="tool-badge xl">Pivot Tables</span>
-            <span class="tool-badge viz">Charts &amp; Visualisation</span>
-            <span class="tool-badge sql">EDA</span>
+            <span class="tool-badge xl">Database comparison</span>
+            <span class="tool-badge etc">ICD Healthcodes</span>
           </div>
           <a class="proj-link" href="https://github.com/jameszka997/ICD-Health-Code-Dataset-Harmonization-">
             View on GitHub →
@@ -547,10 +559,12 @@ title: Projects
         </div>
         <div class="proj-footer">
           <div class="tools-row">
-            <span class="tool-badge xl">Excel</span>
-            <span class="tool-badge xl">Pivot Tables</span>
-            <span class="tool-badge viz">Data Visualisation</span>
-            <span class="tool-badge">Scenario Modelling</span>
+            <span class="tool-badge R">R</span>
+            <span class="tool-badge R"></QDNASeq>
+            <span class="tool-badge py">Python</span>
+            <span class="tool-badge etc">Shell & Linux usage</span>
+            <span class="tool-badge etc">Genomics</span>
+            <span class="tool-badge etc">Bioinfo Pipeline Development</span>
           </div>
           <a class="proj-link" href="https://github.com/jameszka997/Bioinformatic-Pipeline-Development-Projects">
             View on GitHub →
@@ -581,10 +595,10 @@ title: Projects
         </div>
         <div class="proj-footer">
           <div class="tools-row">
-            <span class="tool-badge xl">Excel</span>
-            <span class="tool-badge xl">Pivot Tables</span>
-            <span class="tool-badge viz">Data Visualisation</span>
-            <span class="tool-badge">Scenario Modelling</span>
+            <span class="tool-badge r">R</span>
+            <span class="tool-badge r">Tidyverse</span>
+            <span class="tool-badge r">Toxicology Modelling</span>
+            <span class="tool-badge e">Data Visualization</span>
           </div>
           <a class="proj-link" href="https://github.com/jameszka997/Toxicological-study-of-alcoholic-and-non-alcoholic-hand-sanitisers-on-Daphnia-pulex">
             View on GitHub →
