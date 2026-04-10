@@ -595,7 +595,7 @@ title: Projects
         <div class="proj-footer">
           <div class="tools-row">
             <span class="tool-badge R">R</span>
-            <span class="tool-badge R"></QDNASeq>
+            <span class="tool-badge R">QDNASeq</span>
             <span class="tool-badge py">Python</span>
             <span class="tool-badge etc">Shell & Linux usage</span>
             <span class="tool-badge etc">Genomics</span>
