@@ -147,7 +147,7 @@ title: Projects
   <div class="proj-card">
     <div class="proj-card-inner">
       <div class="proj-image">
-        <img src="(https://github.com/user-attachments/assets/2d047c44-af9c-4dea-b35c-a3e758386e8f)" alt="Hungarian Drug Shortage Data Analysis screenshot" />
+        <img src="https://github.com/user-attachments/assets/2d047c44-af9c-4dea-b35c-a3e758386e8f" alt="Hungarian Drug Shortage Data Analysis screenshot" />
       </div>
       <div class="proj-body">
         <div>
@@ -180,8 +180,43 @@ title: Projects
 
 
 
+<!-- PROJECT 2 -->
+  <div class="proj-card">
+    <div class="proj-card-inner no-image">
+      <div class="proj-body">
+        <div>
+          <p class="proj-category">Database · Pipeline Development · Data Transformation</p>
+          <a class="proj-title" href="https://github.com/jameszka997/Job-Advert-Database/tree/main">
+            HiringCafe Job Advert Database
+          </a>
+          <p class="proj-desc">
+            Developed an end-to-end data pipeline to collect, clean, and structure job listings from HiringCafe into a structured Excel database, with ongoing development towards full scraping automation via Python and SQL integration.
+          </p>
+        </div>
+        <div class="proj-footer">
+          <div class="tools-row">
+            <span class="tool-badge xl">Excel</span>
+            <span class="tool-badge py">Python</span>
+            <span class="tool-badge etc">ETL Data Transformation</span>
+            <span class="tool-badge etc">Data Cleaning</span>
+            <span class="tool-badge etc">Database Management</span>
+          </div>
+          <a class="proj-link" href="https://github.com/jameszka997/Job-Advert-Database/tree/main">
+            View on GitHub →
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-  <!-- PROJECT 1 -->
+
+
+
+
+
+
+
+  <!-- PROJECT 3 -->
   <div class="proj-card">
     <div class="proj-card-inner">
       <div class="proj-image">
@@ -217,7 +252,7 @@ title: Projects
 
 
 
-  <!-- PROJECT 2 -->
+  <!-- PROJECT 4 -->
   <div class="proj-card">
     <div class="proj-card-inner no-image">
       <div class="proj-body">
@@ -248,7 +283,7 @@ title: Projects
 
 
 
- <!-- PROJECT 3 -->
+ <!-- PROJECT 5 -->
   <div class="proj-card">
     <div class="proj-card-inner">
       <div class="proj-image">
@@ -283,7 +318,7 @@ title: Projects
 
 
 
-<!-- PROJECT 4 -->
+<!-- PROJECT 6 -->
   <div class="proj-card">
     <div class="proj-card-inner">
       <div class="proj-image">
@@ -318,7 +353,7 @@ title: Projects
 
 
 
-  <!-- PROJECT 6 -->
+  <!-- PROJECT 7 -->
   <div class="proj-card">
     <div class="proj-card-inner no-image">
       <div class="proj-body">
@@ -349,7 +384,7 @@ title: Projects
 
 
 
-  <!-- PROJECT 7 -->
+  <!-- PROJECT 8 -->
   <div class="proj-card">
     <div class="proj-card-inner">
       <div class="proj-image">
@@ -386,7 +421,7 @@ title: Projects
 
 
 
-  <!-- PROJECT 8 -->
+  <!-- PROJECT 9 -->
   <div class="proj-card">
     <div class="proj-card-inner no-image">
       <div class="proj-body">
@@ -416,7 +451,7 @@ title: Projects
 
 
 
-  <!-- PROJECT 9 -->
+  <!-- PROJECT 10 -->
   <div class="proj-card">
     <div class="proj-card-inner no-image">
       <div class="proj-body">
@@ -447,7 +482,7 @@ title: Projects
 
 
 
-  <!-- PROJECT 10 -->
+  <!-- PROJECT 11 -->
   <div class="proj-card">
     <div class="proj-card-inner no-image">
       <div class="proj-body">
@@ -480,7 +515,7 @@ title: Projects
 
 
 
-  <!-- PROJECT 11 -->
+  <!-- PROJECT 12 -->
   <div class="proj-card">
     <div class="proj-card-inner no-image">
       <div class="proj-body">
@@ -510,7 +545,7 @@ title: Projects
 
 
 
-  <!-- PROJECT 12 -->
+  <!-- PROJECT 13 -->
   <div class="proj-card">
     <div class="proj-card-inner no-image">
       <div class="proj-body">
@@ -541,7 +576,7 @@ title: Projects
 
 
 
-<!-- PROJECT 13 -->
+<!-- PROJECT 14 -->
   <div class="proj-card">
     <div class="proj-card-inner">
       <div class="proj-image">
@@ -577,7 +612,7 @@ title: Projects
 
 
 
-<!-- PROJECT 14 -->
+<!-- PROJECT 15 -->
   <div class="proj-card">
     <div class="proj-card-inner">
       <div class="proj-image">
