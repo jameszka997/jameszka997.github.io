@@ -576,74 +576,67 @@ title: Projects
 
 
 
-<!-- PROJECT 14 -->
-  <div class="proj-card">
-    <div class="proj-card-inner">
-      <div class="proj-image">
-        <img src="https://github.com/user-attachments/assets/5ff81a12-0cf4-43bc-a583-5707d473d267" alt="Bioinformatic pipelines development snapshot" />
+<div class="proj-card">
+  <div class="proj-card-inner">
+    <div class="proj-image">
+      <img src="https://github.com/user-attachments/assets/5ff81a12-0cf4-43bc-a583-5707d473d267" alt="Bioinformatic pipelines development snapshot" />
+    </div>
+    <div class="proj-body">
+      <div>
+        <p class="proj-category">Bioinformatics · Shell · Genomics · R</p>
+        <a class="proj-title" href="https://github.com/jameszka997/Bioinformatic-Pipeline-Development-Projects">
+          Bioinformatic Pipeline Developments
+        </a>
+        <p class="proj-desc">
+          Developed and implemented modular genomics and transcriptomics pipelines at Linköping University's Nestor Lab, spanning LP-WGS alignment, RAP-seq RNA processing, and R-based Copy Number Variation analysis using Bash, Python, and R. Example above for expression profile from DNA CNV analysis.
+        </p>
       </div>
-      <div class="proj-body">
-        <div>
-          <p class="proj-category">Bioinformatics · Shell · Genomics · R</p>
-          <a class="proj-title" href="https://github.com/user-attachments/assets/5ff81a12-0cf4-43bc-a583-5707d473d267">
-            Bioinformatic Pipeline Developments
-          </a>
-          <p class="proj-desc">
-            Developed and implemented modular genomics and transcriptomics pipelines at Linköping University's Nestor Lab, spanning LP-WGS alignment, RAP-seq RNA processing, and R-based Copy Number Variation analysis using Bash, Python, and R. Example above for expression profile from DNA CNV analysis.
-          </p>
+      <div class="proj-footer">
+        <div class="tools-row">
+          <span class="tool-badge R">R</span>
+          <span class="tool-badge R">QDNASeq</span>
+          <span class="tool-badge py">Python</span>
+          <span class="tool-badge etc">Shell & Linux usage</span>
+          <span class="tool-badge etc">Genomics</span>
+          <span class="tool-badge etc">Bioinfo Pipeline Development</span>
         </div>
-        <div class="proj-footer">
-          <div class="tools-row">
-            <span class="tool-badge r">R</span>
-            <span class="tool-badge r">QDNASeq</span>
-            <span class="tool-badge py">Python</span>
-            <span class="tool-badge etc">Shell & Linux usage</span>
-            <span class="tool-badge etc">Genomics</span>
-            <span class="tool-badge etc">Bioinfo Pipeline Development</span>
-          </div>
-          <a class="proj-link" href="https://github.com/jameszka997/Bioinformatic-Pipeline-Development-Projects">
-            View on GitHub →
-          </a>
-        </div>
+        <a class="proj-link" href="https://github.com/jameszka997/Bioinformatic-Pipeline-Development-Projects">
+          View on GitHub →
+        </a>
       </div>
     </div>
   </div>
+</div>
 
-
-
-
-<!-- PROJECT 15 -->
-  <div class="proj-card">
-    <div class="proj-card-inner">
-      <div class="proj-image">
-        <img src="https://github.com/user-attachments/assets/29c9e8c2-464e-45ee-bce6-0217ec819914" alt="Toxicology Assessment Pipeline flowchart" />
+<div class="proj-card">
+  <div class="proj-card-inner">
+    <div class="proj-image">
+      <img src="https://github.com/user-attachments/assets/29c9e8c2-464e-45ee-bce6-0217ec819914" alt="Toxicology Assessment Pipeline flowchart" />
+    </div>
+    <div class="proj-body">
+      <div>
+        <p class="proj-category">Data Modelling · R</p>
+        <a class="proj-title" href="https://github.com/jameszka997/Toxicological-study-of-alcoholic-and-non-alcoholic-hand-sanitisers-on-Daphnia-pulex">
+          Toxicology Modelling and Study (BSc project)
+        </a>
+        <p class="proj-desc">
+          Investigated the acute and chronic toxicological effects of alcohol-based and non-alcohol-based hand sanitisers on the freshwater indicator species Daphnia pulex using probit regression, Kaplan-Meier survival analysis, and heart rate endpoints in R, identifying alcohol evaporation as a key methodological confound.
+        </p>
       </div>
-      <div class="proj-body">
-        <div>
-          <p class="proj-category">Data Modelling · R</p>
-          <a class="proj-title" href="https://github.com/jameszka997/Toxicological-study-of-alcoholic-and-non-alcoholic-hand-sanitisers-on-Daphnia-pulex">
-            Toxicology Modelling and Study (BSc project)
-          </a>
-          <p class="proj-desc">
-            Investigated the acute and chronic toxicological effects of alcohol-based and non-alcohol-based hand sanitisers on the freshwater indicator species Daphnia pulex using probit regression, Kaplan-Meier survival analysis, and heart rate endpoints in R, identifying alcohol evaporation as a key methodological confound.
-          </p>
+      <div class="proj-footer">
+        <div class="tools-row">
+          <span class="tool-badge R">R</span>
+          <span class="tool-badge R">Tidyverse</span>
+          <span class="tool-badge etc">Toxicology Modelling</span>
+          <span class="tool-badge etc">Data Visualization</span>
         </div>
-        <div class="proj-footer">
-          <div class="tools-row">
-            <span class="tool-badge r">R</span>
-            <span class="tool-badge r">Tidyverse</span>
-            <span class="tool-badge r">Toxicology Modelling</span>
-            <span class="tool-badge e">Data Visualization</span>
-          </div>
-          <a class="proj-link" href="https://github.com/jameszka997/Toxicological-study-of-alcoholic-and-non-alcoholic-hand-sanitisers-on-Daphnia-pulex">
-            View on GitHub →
-          </a>
-        </div>
+        <a class="proj-link" href="https://github.com/jameszka997/Toxicological-study-of-alcoholic-and-non-alcoholic-hand-sanitisers-on-Daphnia-pulex">
+          View on GitHub →
+        </a>
       </div>
     </div>
   </div>
-
-
+</div>
 
 
 
