@@ -25,8 +25,8 @@ navbar-links:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "Certifications"
-  Test_Projects: "test_projects"
-  Projects: "Projects"
+  Projects: "test_projects"
+  # Projects: "Projects"
   Certifications: "Certifications"
 
 ################
