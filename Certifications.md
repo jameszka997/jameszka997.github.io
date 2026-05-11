@@ -26,6 +26,7 @@ Professional Certificate](https://github.com/user-attachments/files/26596596/Cer
 - [Scrum: The Basics](https://github.com/user-attachments/files/26377417/CertificateOfCompletion_Scrum.The.Basics.pdf)
 - [GDPR Compliance Essential Training Certification](https://github.com/user-attachments/files/25929470/CertificateOfCompletion_GDPR.Compliance.Essential.Training.pdf)
 - [Everybodys Introduction to Snowflake Certification](https://github.com/user-attachments/files/25929484/CertificateOfCompletion_Everybodys.Introduction.to.Snowflake.pdf)
+- [Complete Guide to power BI for Data Analysts by Microsoft Press](https://github.com/user-attachments/files/27593245/CertificateOfCompletion_Complete.Guide.to.Power.BI.for.Data.Analysts.by.Microsoft.Press.pdf)
 - [Power BI Data modeling with DAX (LinkedIn Learning)](https://media.licdn.com/dms/image/v2/D4D2DAQEnjm8f_7rd7Q/profile-treasury-document-images_1280/B4DZx7SzSaHcAU-/1/1771595053821?e=1772668800&v=beta&t=8cH--lvPC-E_YJDptHQehaWUhjkKuBvQgXEzbLn36sk)
 - [R for Data Science2](https://github.com/jameszka997/R-for-Data-Science2e-me)
 - [Single cell RNAseq data analysis week-long workshop in Uppsala](https://uppsala.instructure.com/courses/91033) (organized by NBIS & SciLifeLab).
