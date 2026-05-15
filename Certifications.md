@@ -28,6 +28,7 @@ Professional Certificate](https://github.com/user-attachments/files/26596596/Cer
 - [Everybodys Introduction to Snowflake Certification](https://github.com/user-attachments/files/25929484/CertificateOfCompletion_Everybodys.Introduction.to.Snowflake.pdf)
 - [Complete Guide to power BI for Data Analysts by Microsoft Press](https://github.com/user-attachments/files/27593245/CertificateOfCompletion_Complete.Guide.to.Power.BI.for.Data.Analysts.by.Microsoft.Press.pdf)
 - [Power BI Data modeling with DAX (LinkedIn Learning)](https://media.licdn.com/dms/image/v2/D4D2DAQEnjm8f_7rd7Q/profile-treasury-document-images_1280/B4DZx7SzSaHcAU-/1/1771595053821?e=1772668800&v=beta&t=8cH--lvPC-E_YJDptHQehaWUhjkKuBvQgXEzbLn36sk)
+- [Ubuntu Linux Professional Certificate by Canonical](https://github.com/user-attachments/files/27791799/CertificateOfCompletion_Ubuntu.Linux.Professional.Certificate.by.Canonical.pdf)
 - [R for Data Science2](https://github.com/jameszka997/R-for-Data-Science2e-me)
 - [Single cell RNAseq data analysis week-long workshop in Uppsala](https://uppsala.instructure.com/courses/91033) (organized by NBIS & SciLifeLab).
 - [Software Testing Foundations: Keeping QA Skills Current in the Age of AI](https://media.licdn.com/dms/image/v2/D4D2DAQEs31KVA8Ql1A/profile-treasury-document-images_1280/B4DZx7Sah4IoAU-/1/1771594952488?e=1772668800&v=beta&t=NxsXv2M4j8MlfeMn__rAy0JhXQDaqqCwv5zEwTDJ-UE)
