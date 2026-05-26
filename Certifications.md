@@ -23,6 +23,7 @@ This page is designed to compile all the relevant qualifications & certification
 - [CSCMP Supply Chain Foundations: Demand Planning Professional Certificate](https://github.com/user-attachments/files/27476228/CertificateOfCompletion_CSCMP.Supply.Chain.Foundations.Demand.Planning.Professional.Certificate.pdf)
 - [Atlassian Agile Project Management
 Professional Certificate](https://github.com/user-attachments/files/26596596/CertificateOfCompletion_Atlassian.Agile.Project.Management.Professional.Certificate.pdf)
+- [Career Essentials in GitHub](https://github.com/user-attachments/files/28260583/CertificateOfCompletion_Career.Essentials.in.GitHub.Professional.Certificate.pdf)
 - [Scrum: The Basics](https://github.com/user-attachments/files/26377417/CertificateOfCompletion_Scrum.The.Basics.pdf)
 - [GDPR Compliance Essential Training Certification](https://github.com/user-attachments/files/25929470/CertificateOfCompletion_GDPR.Compliance.Essential.Training.pdf)
 - [Everybodys Introduction to Snowflake Certification](https://github.com/user-attachments/files/25929484/CertificateOfCompletion_Everybodys.Introduction.to.Snowflake.pdf)
