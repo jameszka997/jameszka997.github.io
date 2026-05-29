@@ -19,8 +19,10 @@ This page is designed to compile all the relevant qualifications & certification
 - [Career Essentials in Business Analysis by Microsoft and LinkedIn](https://github.com/user-attachments/files/25864441/CertificateOfCompletion_Career.Essentials.in.Business.Analysis.by.Microsoft.and.LinkedIn.pdf)
 - [Career Essentials in Project Management by Microsoft and LinkedIn](https://github.com/user-attachments/files/26178712/CertificateOfCompletion_Career.Essentials.in.Project.Management.by.Microsoft.and.LinkedIn.1.pdf)
 - [Data Engineering Professional Certificate](https://github.com/user-attachments/files/27586251/CertificateOfCompletion_Data.Engineering.Professional.Certificate.by.Snowflake.pdf)
+- [Microsoft Azure Fundamentals (AZ-900) Cert Prep by Microsoft Press](https://github.com/user-attachments/files/28395477/CertificateOfCompletion_Microsoft.Azure.Fundamentals.AZ900.Cert.Prep.by.Microsoft.Press.pdf)
 - [CSCMP Supply Chain Foundations: The Essentials Professional Certificate](https://github.com/user-attachments/files/26277242/CertificateOfCompletion_CSCMP.Supply.Chain.Foundations.The.Essentials.Professional.Certificate.pdf)
 - [CSCMP Supply Chain Foundations: Demand Planning Professional Certificate](https://github.com/user-attachments/files/27476228/CertificateOfCompletion_CSCMP.Supply.Chain.Foundations.Demand.Planning.Professional.Certificate.pdf)
+- [CSCMP Supply Chain Foundations: Transportation Professional Certificate](https://github.com/user-attachments/files/28395433/CertificateOfCompletion_CSCMP.Supply.Chain.Foundations.Transportation.Professional.Certificate.pdf)
 - [Atlassian Agile Project Management
 Professional Certificate](https://github.com/user-attachments/files/26596596/CertificateOfCompletion_Atlassian.Agile.Project.Management.Professional.Certificate.pdf)
 - [Career Essentials in GitHub](https://github.com/user-attachments/files/28260583/CertificateOfCompletion_Career.Essentials.in.GitHub.Professional.Certificate.pdf)
