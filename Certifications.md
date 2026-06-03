@@ -18,6 +18,7 @@ This page is designed to compile all the relevant qualifications & certification
 - [Anaconda Python for Data Science Professional Certificate](https://github.com/user-attachments/files/26178625/CertificateOfCompletion_Anaconda.Python.for.Data.Science.Professional.Certificate.pdf)
 - [Career Essentials in Business Analysis by Microsoft and LinkedIn](https://github.com/user-attachments/files/25864441/CertificateOfCompletion_Career.Essentials.in.Business.Analysis.by.Microsoft.and.LinkedIn.pdf)
 - [Career Essentials in Project Management by Microsoft and LinkedIn](https://github.com/user-attachments/files/26178712/CertificateOfCompletion_Career.Essentials.in.Project.Management.by.Microsoft.and.LinkedIn.1.pdf)
+- [CFI Financial Analysis and Modeling Professional Certificate](https://github.com/user-attachments/files/28543556/CertificateOfCompletion_CFI.Financial.Analysis.and.Modeling.Professional.Certificate.pdf)
 - [Data Engineering Professional Certificate](https://github.com/user-attachments/files/27586251/CertificateOfCompletion_Data.Engineering.Professional.Certificate.by.Snowflake.pdf)
 - [Microsoft Azure Fundamentals (AZ-900) Cert Prep by Microsoft Press](https://github.com/user-attachments/files/28395477/CertificateOfCompletion_Microsoft.Azure.Fundamentals.AZ900.Cert.Prep.by.Microsoft.Press.pdf)
 - [CSCMP Supply Chain Foundations: The Essentials Professional Certificate](https://github.com/user-attachments/files/26277242/CertificateOfCompletion_CSCMP.Supply.Chain.Foundations.The.Essentials.Professional.Certificate.pdf)
